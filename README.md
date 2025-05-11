@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Olá! Sou o Matheus Costa Passos!
+🎓 Estudante de Ciência da Computação
+🌍 Falante de Português | Estudando Inglês 🇺🇸
+💻 Apaixonado por tecnologia, programação e sonho em trabalhar com IA! 
 
-<!--
-**Matheuscpassos/Matheuscpassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 Tecnologias e Ferramentas que estou aprendendo
+Python | Organização e Arquitetura de computadores | Banco de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📊 Estatísticas do GitHub
+!Linguagens mais usadas: Python
+
+---
+
+📫 Me encontre nas redes
+[![LinkedIn](https://www.instagram.com/mathe_costap/)
+[![Instagram](https://www.linkedin.com/in/matheus-passos-10243835a/)
+
+---
+
+✨ Obrigado por visitar meu perfil!
