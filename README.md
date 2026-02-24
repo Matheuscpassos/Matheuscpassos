@@ -16,7 +16,7 @@ Python | Organização e Arquitetura de computadores | Banco de Dados
 ---
 
 📫 Redes sociais
-[![LinkedIn](https://www.linkedin.com/in/matheus-passos-10243835a/)
+https://www.linkedin.com/in/matheus-passos-10243835a/
 
 
 ---
