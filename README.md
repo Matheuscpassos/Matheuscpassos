@@ -11,13 +11,13 @@ Python | Organização e Arquitetura de computadores | Banco de Dados
 ---
 
 📊 Estatísticas do GitHub
-!Linguagens mais usadas: Python
+!Linguagens mais usadas: Python, Java
 
 ---
 
-📫 Me encontre nas redes
-[![LinkedIn](https://www.instagram.com/mathe_costap/)
-[![Instagram](https://www.linkedin.com/in/matheus-passos-10243835a/)
+📫 Redes sociais
+[![LinkedIn](https://www.linkedin.com/in/matheus-passos-10243835a/)
+
 
 ---
 
