@@ -15,7 +15,7 @@ Python | Java | Organização e Arquitetura de computadores | Banco de Dados
 
 ---
 
-📫 Redes sociais
+📫 Linkedin
 https://www.linkedin.com/in/matheus-passos-10243835a/
 
 
